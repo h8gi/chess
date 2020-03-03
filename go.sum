@@ -1,0 +1,4 @@
+github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e h1:fY5BOSpyZCqRo5OhCuC+XN+r/bBCmeuuJtjz+bCNIf8=
+github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
+github.com/notnil/chess v0.0.0-20191006020310-e7f43cbaaded h1:V+9WIirKG0PSgZ6DTPIfUex3qkob33iZaMSPj7CDxFU=
+github.com/notnil/chess v0.0.0-20191006020310-e7f43cbaaded/go.mod h1:Yu0kMeugIBDf7tmefiwvk+/DabQ5AzQwKUM5Kjt26iQ=
